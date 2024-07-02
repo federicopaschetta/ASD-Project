@@ -1,4 +1,4 @@
-# Laboratorio per il corso di Algoritmi e Strutture Dati: regole d'esame, indicazioni generali e suggerimenti, consegne per gli esercizi
+# Generic algorithms implementation in Java and C (Heap, Graph, Quick Sort, Binary Insertion Sort and Skip List)
 
 # Regole d'esame
 
